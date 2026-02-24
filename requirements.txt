@@ -1,0 +1,13 @@
+# LiveKit
+livekit>=0.10.0
+livekit-api>=0.6.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Async support
+aiohttp>=3.8.0
+websockets>=11.0.0
+
+# Audio processing
+numpy>=1.21.0
