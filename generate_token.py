@@ -60,7 +60,7 @@ if __name__ == "__main__":
         print(f"   Agent Name: Echo Agent")
         print()
         print("🎫 Fresh Token:")
-        print(f"   {token}")
+        print(f"{token.strip()}")
         print()
         print("=" * 60)
         print("✅ Ready to connect! Copy the token and use in playground.")
